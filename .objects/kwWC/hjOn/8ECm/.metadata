@@ -1,0 +1,12 @@
+﻿{
+  "Name": "powerpnt.exe",
+  "Type": "Screen",
+  "Id": "8ECmj30RwkO9ylpIsXr2MQ",
+  "Reference": "eCTHlxPNREiJno5JXTi3aQ/8ECmj30RwkO9ylpIsXr2MQ",
+  "ParentRef": "eCTHlxPNREiJno5JXTi3aQ/hjOnWAJuVUWbgn3QNP3XoQ",
+  "Created": "2024-06-04T20:21:35.1057072Z",
+  "Updated": "2024-06-04T20:21:35.1057072Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

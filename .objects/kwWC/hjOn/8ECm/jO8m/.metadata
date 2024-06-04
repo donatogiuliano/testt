@@ -1,0 +1,13 @@
+﻿{
+  "Name": "textfeld Titeltextfeld",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "jO8maImaZU-pg6grg-PGoQ",
+  "Reference": "eCTHlxPNREiJno5JXTi3aQ/jO8maImaZU-pg6grg-PGoQ",
+  "ParentRef": "eCTHlxPNREiJno5JXTi3aQ/8ECmj30RwkO9ylpIsXr2MQ",
+  "Created": "2024-06-04T20:21:35.2348303Z",
+  "Updated": "2024-06-04T20:21:35.2348303Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

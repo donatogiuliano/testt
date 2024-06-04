@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RichEditD2DPT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "PP-f0DTN1kOuaxk-Vk4-cg",
+  "Reference": "eCTHlxPNREiJno5JXTi3aQ/PP-f0DTN1kOuaxk-Vk4-cg",
+  "ParentRef": "eCTHlxPNREiJno5JXTi3aQ/X7-haMCAYU-OOl0CdNMbrQ",
+  "Created": "2024-06-04T20:31:09.6034859Z",
+  "Updated": "2024-06-04T20:31:09.6034859Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
